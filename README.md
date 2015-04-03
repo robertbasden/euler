@@ -1,0 +1,1 @@
+Working through the problems available from https://projecteuler.net/ as a learning exercise while looking into Erlang.
